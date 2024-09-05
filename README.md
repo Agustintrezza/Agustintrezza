@@ -1,4 +1,4 @@
-## Hi there 👋 ! my name is Agustin Trezza, i am semisenior Fullstack Developer from Argentina. 
+## Hi there 👋 ! I'm a Fullstack developer with more than 4 years of experience, I specialize in React, Node and Flask. I love programming. I handle user interface creation, authentication, forms, styling frameworks, responsive design, libraries, unit test. I do backend with Node.js and Python; RESTful APIs, MongoDB database, MySQL, Firebase. Github, Bitbucket, Jenkins, Jira.
 
 <!--
 **Agustintrezza/Agustintrezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
