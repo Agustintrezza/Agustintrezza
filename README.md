@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ! my name is Agustin Trezza, i am semisenior Fullstack Developer from Argentina. 
 
 <!--
 **Agustintrezza/Agustintrezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
