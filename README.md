@@ -1,7 +1,7 @@
-## ¡Hola! 👋 Mi nombre es Agustin Trezza. Soy desarrollador Fullstack especializado en React, Node y Flask y me encanta la programación en general. Manejo solidamente la creación de interfaces de usuario, autenticación, formularios, frameworks de estilos, diseño responsivo, librerías, y pruebas unitarias. También trabajo en (backend donde más estoy disfrutando trabajar actualmente) con Node.js (Express, NestJs) y Python (Flask); APIs RESTful, bases de datos MongoDB, MySQL y Firebase. Utilizo herramientas como GitHub, Bitbucket, Jenkins y Jira.
+## ¡Hola! Que Tal! 👋 Mi nombre es Agustin Trezza. Soy desarrollador Fullstack Javascript especializado en React, Node y Flask (Python). Me encanta la programación en general. Manejo solidamente tareas de frontend, creación de interfaces de usuario, frameworks de estilos, diseño responsivo, autenticación, formularios librerías, pruebas unitarias y más. También trabajo en backend donde me estoy enfocando mayormente, usando Node.js (Express, NestJs) y Python (Flask); APIs RESTful, arquitectura de servidores en general, bases de datos MongoDB, MySQL y Firebase, Oracle. Utilizo herramientas como GitHub, Bitbucket, Jenkins y Jira.
 
-### La práctica es esencial, 
-por lo que te invito a revisar mis proyectos en GitHub para que puedas ver parte algo de mis trabajos y estilo como desarrollador. También te recomiendo visitar mi canal de YouTube, donde comparto videos breves de cosas que he fuí y continúo haciendo.
+### Creo que la práctica es esencial, 
+por lo que te invito a revisar muchos de mis códigos aquí en Github. También te recomiendo pasar mi canal de YouTube, donde hay videos breves y concisos de muchas aplicaciónes que fuí construyendo usando varias tecnólogias.
 
 ### ▶️▶️▶️
 [![YouTube](https://img.shields.io/badge/YouTube-AgustinTrezza-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@agustintrezza8490/videos)
