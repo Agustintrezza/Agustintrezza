@@ -1,13 +1,13 @@
-## ¡Hola! 👋 Mi nombre es Agustin Trezza. Soy desarrollador Fullstack especializado en React, Node y Flask y me apasiona la programación. Manejo la creación de interfaces de usuario, autenticación, formularios, frameworks de estilos, diseño responsivo, librerías, y pruebas unitarias. También trabajo en el backend con Node.js y Python; APIs RESTful, bases de datos MongoDB, MySQL y Firebase. Utilizo herramientas como GitHub, Bitbucket, Jenkins y Jira.
+## ¡Hola! 👋 Mi nombre es Agustin Trezza. Soy desarrollador Fullstack especializado en React, Node y Flask y me encanta la programación en general. Manejo solidamente la creación de interfaces de usuario, autenticación, formularios, frameworks de estilos, diseño responsivo, librerías, y pruebas unitarias. También trabajo en (backend donde más estoy disfrutando trabajar actualmente) con Node.js (Express, NestJs) y Python (Flask); APIs RESTful, bases de datos MongoDB, MySQL y Firebase. Utilizo herramientas como GitHub, Bitbucket, Jenkins y Jira.
 
 ### La práctica es esencial, 
-por lo que te invito a revisar mis proyectos en GitHub para que puedas ver parte de mi trabajo y estilo como desarrollador. También puedes visitar mi canal de YouTube, donde comparto videos breves de cosas que he hecho y continúo haciendo.
+por lo que te invito a revisar mis proyectos en GitHub para que puedas ver parte algo de mis trabajos y estilo como desarrollador. También te recomiendo visitar mi canal de YouTube, donde comparto videos breves de cosas que he fuí y continúo haciendo.
 
 ### ▶️▶️▶️
 [![YouTube](https://img.shields.io/badge/YouTube-AgustinTrezza-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@agustintrezza8490/videos)
 
-### 💻 Actualmente estoy trabajando en 💻 ...
-Trabajo en una empresa de tecnología en Córdoba, donde me especializo en React, Node y en procesos de integración y manejo de repositorios. Estoy enfocado en mejorar continuamente mis habilidades en el desarrollo y la colaboración en equipo.
+### 💻 Actualmente trabajo como Fullstak Developer en Darwoft 💻 ...
+Una gran empresa de tecnología en Córdoba (Argentina). Trabajo en un proyecto con 12 microfrontends construídos con React y mas de 40 apis (Node y Java) , bff con GraphQL. Equipo de testing. Trabajo en frontend y backend, integramos y manejamos repositorios usando Bitbucket, Jenkins y manejo del proyecto con Jira. 
 
 ### 📖 Estoy aprendiendo 📖 ...
 Estoy profundizando mis conocimientos de backend, con un enfoque en arquitectura de APIs usando NEST, EXPRESS y FLASK.
@@ -16,5 +16,7 @@ Estoy profundizando mis conocimientos de backend, con un enfoque en arquitectura
 Perfeccionar mi código tanto en el frontend como en el backend, especialmente en arquitectura, patrones de diseño y buenas prácticas de desarrollo.
 
 ### 💬 Pregúntame sobre ...
-Siéntete libre de preguntarme sobre mis repositorios o proyectos, estaré encantado de que conversemos sobre cualquier tema relacionado con desarrollo.
+Sentite libre de preguntarme sobre mis repositorios o proyectos, o lo que quieras, encantado de que conversemos.
+
+Saludos, Agustin
 
